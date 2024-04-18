@@ -1,0 +1,1 @@
+print("foxtrox left the game")
